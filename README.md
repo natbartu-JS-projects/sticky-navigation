@@ -4,5 +4,8 @@ This project is about exploring more about sticky navigation. Once the navigatio
 
 ## Application Preview
 
+ hover effect preview
 ![preview-1](assets/sticky-navigation-2.gif)
+
+sticky navigation preview
 ![preview-1](assets/sticky-navigation.gif)
